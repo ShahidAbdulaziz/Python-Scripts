@@ -1,3 +1,9 @@
+#Consider the following list of integers: [1,2,3,4,5,6,7,8,9,10].  Show how this list is sorted by the following algorithms:
+#bubble sort
+#selection sort
+#insertion sort
+
+
 # A buble sorta sorts a list by fining if the current number is smaller than the next number in the list. If it is, then it swaps the numbers
 listTest = [64, 34, 25, 12, 22, 11, 90]
 
