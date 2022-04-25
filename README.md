@@ -1,2 +1,2 @@
-# Stacks-Queues-and-Deeques-Python
-Implement a stack, queue and deque using a linked list in Python
+# Python Scripts
+This Repo is an archive of some of my python code I have developed during both my academic and free time. 
